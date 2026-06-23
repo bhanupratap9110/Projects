@@ -54,7 +54,7 @@ function Home() {
               <span className="text-3xl">1,37,900</span>
               <div className="flex items-end ms-1">
                 <span className="text-sm">
-                  M.R.P: <span className="line-through">₹1,49,900</span>
+                  M.R.P: <span className="line-through">₹1,49,999</span>
                 </span>
               </div>
             </div>
