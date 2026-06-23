@@ -62,7 +62,7 @@ function Home() {
             <p className="opacity-80">Up to 5% back with Amazon Pay I...</p>
             <div className="flex">
               <p>FREE Delivery</p>
-              <span className="font-bold ms-1">Mon, 17 Jun</span>
+              <span className="font-bold ms-1">Mon, 13 Nov</span>
             </div>
             <button className="bg-[#FFD814] rounded-2xl p-1 mb-2">Add to cart</button>
           </div>
